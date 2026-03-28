@@ -1,9 +1,9 @@
-source_id,n_records,reference,doi,data_types
-S1,52,"NCAMP, CAM-RP-2009-015 Rev A. NIAR, Wichita State Univ., 2011.",https://www.wichita.edu/NIAR/ncamp,Mean_value
-S10,32,"ACP Composites. Mechanical Properties of Carbon Fiber Composites. Technical Data, 2023.",https://www.acpsales.com/upload/Mechanical-Properties-of-Carbon-Fiber.pdf,Mean_value
-S2,60,"Alsheghri A.A., Drakonakis V.M. Mechanical properties of CNT-enhanced CFRP. PLOS ONE, 2025. Mendeley: doi:10.17632/fspdwb4mst.1",https://doi.org/10.1371/journal.pone.0319787,Experimental
-S3,25,"Mohamed H. et al. Effect of fibre orientation on tensile properties of CFRP. Alexandria Engineering Journal, 2023.",https://doi.org/10.1016/j.aej.2022.09.020,Experimental
-S4,36,"Sudarisman et al. Effect of water immersion on mechanical properties of CFRP. J. Composites Science, MDPI, 2023.",https://doi.org/10.3390/jcs7020056,Experimental
-S6,18,"Tefera G. et al. Mechanical properties of T700/epoxy at -80 to 150 C. J. Composite Materials, Sage, 2022.",https://doi.org/10.1177/00219983221094290,Mean_value
-S7,20,"In press. Micromechanical characterisation of T800/epoxy. Composites Part A, 2025.",https://doi.org/10.1016/j.compositesa.2024.108512,Experimental
-S8,40,"In press. Comparative flexural and impact properties of T300/T700. Composites Part B, 2025.",https://doi.org/10.1016/j.compositesb.2024.111987,Experimental
+source_id,n,ref,doi
+S1,52,"NCAMP, CAM-RP-2009-015 Rev A. NIAR, Wichita State Univ., 2011.",https://www.wichita.edu/NIAR/ncamp
+S10,32,"ACP Composites. Mechanical Properties of Carbon Fiber Composites. Technical Data, 2023.",https://www.acpsales.com/upload/Mechanical-Properties-of-Carbon-Fiber.pdf
+S2,60,"Alsheghri A.A., Drakonakis V.M. Mechanical properties of CNT-enhanced CFRP. PLOS ONE, 2025. Mendeley: doi:10.17632/fspdwb4mst.1",https://doi.org/10.1371/journal.pone.0319787
+S3,25,"Mohamed H. et al. Effect of fibre orientation on tensile properties of CFRP. Alexandria Engineering Journal, 2023.",https://doi.org/10.1016/j.aej.2022.09.020
+S4,36,"Sudarisman et al. Effect of water immersion on mechanical properties of CFRP. J. Composites Science, MDPI, 2023.",https://doi.org/10.3390/jcs7020056
+S6,18,"Tefera G. et al. Mechanical properties of T700/epoxy at -80 to 150 C. J. Composite Materials, Sage, 2022.",https://doi.org/10.1177/00219983221094290
+S7,20,"In press. Micromechanical characterisation of T800/epoxy. Composites Part A, 2025.",https://doi.org/10.1016/j.compositesa.2024.108512
+S8,40,"In press. Comparative flexural and impact properties of T300/T700. Composites Part B, 2025.",https://doi.org/10.1016/j.compositesb.2024.111987
